@@ -1,0 +1,84 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+h2 {
+	color: #FFA500;
+}
+
+#logo {
+	position: absolute;
+	text-align: center;
+	top:42px;
+	right: 610px;
+	font-size: 55px;
+	color: #504a4b;
+}
+
+#link1 {
+	position: relative;
+	top: 130px;
+	left: 450px;
+	text-decoration: none;
+	padding: 10px;
+	padding-left: 13px;
+	color: white;
+	float: left;
+}
+
+#link1:hover {
+	background-color: white;
+	text-decoration: none;
+	color: #FFA500;
+}
+
+#link2 {
+	text-decoration: none;
+	color: orange;
+}
+
+
+#lado1 {
+	position: absolute;
+	right: 200px;
+	top: 200px;
+	height: 160px;
+	width: 200px;
+
+}
+
+#lado2 {
+	position: absolute;
+	right: 200px;
+	top: 400px;
+	height: 140px;
+	width: 200px;
+}
+
+#titulo {
+  background-color: #d3d3d3;
+  color: #696969;
+  font-size: 20px;
+}
+
+.noticias {
+	position: relative;
+	left: 200px;
+	height 400px;
+	width: 650px;
+}
+
+.top {
+	background-color: #FFA500;
+	text-align: center;
+	height: 180px;
+	}
+
+.branco {
+	color:white;
+}
